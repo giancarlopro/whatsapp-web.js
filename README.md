@@ -1,4 +1,6 @@
-[![npm](https://img.shields.io/npm/v/whatsapp-web.js.svg)](https://www.npmjs.com/package/whatsapp-web.js) [![Depfu](https://badges.depfu.com/badges/4a65a0de96ece65fdf39e294e0c8dcba/overview.svg)](https://depfu.com/github/pedroslopez/whatsapp-web.js?project_id=9765) ![WhatsApp_Web 2.2126.10](https://img.shields.io/badge/WhatsApp_Web-2.2126.10-brightgreen.svg) [![Discord Chat](https://img.shields.io/discord/698610475432411196.svg?logo=discord)](https://discord.gg/H7DqQs4)  
+# THIS IS NOT THE OFFICIAL LIBRARY, THIS IS JUST TO ADD FEATURES NOT PRESENT ON THE OFICIAL LIB. FOR THE OFICIAL GO [HERE](https://github.com/pedroslopez/whatsapp-web.js)
+
+[![npm](https://img.shields.io/npm/v/whatsapp-web.js.svg)](https://www.npmjs.com/package/whatsapp-web.js) [![Depfu](https://badges.depfu.com/badges/4a65a0de96ece65fdf39e294e0c8dcba/overview.svg)](https://depfu.com/github/pedroslopez/whatsapp-web.js?project_id=9765) ![WhatsApp_Web 2.2114.8](https://img.shields.io/badge/WhatsApp_Web-2.2114.8-brightgreen.svg) [![Discord Chat](https://img.shields.io/discord/698610475432411196.svg?logo=discord)](https://discord.gg/H7DqQs4)
 
 # whatsapp-web.js
 A WhatsApp API client that connects through the WhatsApp Web browser app
@@ -51,7 +53,7 @@ Take a look at [example.js](https://github.com/pedroslopez/whatsapp-web.js/blob/
 | Receive media (images/audio/video/documents)  | ✅  |
 | Send contact cards | ✅ |
 | Send location | ✅ |
-| Receive location | ✅ | 
+| Receive location | ✅ |
 | Message replies | ✅ |
 | Join groups by invite  | ✅ |
 | Get invite for group  | ✅ |
